@@ -204,7 +204,7 @@ news:
 progress_status:
   status_heading: ''
   status_types: []
-remote_data_prefix: 'https://open-sdg.org/open-sdg-data-starter'
+remote_data_prefix: 'https://tt053626.github.io/sdg-v2-data/'
 reporting_status:
   title: status.reporting_status
   description: status.description
@@ -219,8 +219,8 @@ reporting_status:
     - value: notapplicable
       label: status.not_applicable
       hide_on_goal_pages: false
-repository_url_data: 'https://github.com/open-sdg/open-sdg-data-starter'
-repository_url_site: ''
+repository_url_data: 'https://github.com/tt053626/sdg-v2-data'
+repository_url_site: 'https://github.com/tt053626/sdg-v2-site'
 search_index_boost: []
 search_index_extra_fields: []
 site_config_form:
